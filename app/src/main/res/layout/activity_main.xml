@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/reg_background"
+    tools:context="zebra.protector.MainActivity">
+
+    <!--
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="30dp"
+        android:gravity="bottom" >
+
+        <Button
+            android:id="@+id/btnGuestUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="55dp"
+            android:minWidth="130dp"
+            android:textSize="14sp"
+            android:textColor="@android:color/white"
+            android:textAllCaps="false"
+            android:onClick="onClick"
+            android:layout_marginBottom="15dp"
+            android:background="@color/myPrimaryDarkColor"
+            android:text="@string/button_guest_user" />
+
+        <Button
+            android:id="@+id/btnPremiumUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="55dp"
+            android:minWidth="130dp"
+            android:textSize="14sp"
+            android:textColor="@android:color/white"
+            android:textAllCaps="false"
+            android:onClick="onClick"
+            android:layout_marginBottom="15dp"
+            android:background="@color/myPrimaryDarkColor"
+            android:text="@string/button_premium_user" />
+
+    </LinearLayout>
+    -->
+
+
+    <include layout="@layout/layout_footer_register" />
+
+</RelativeLayout>

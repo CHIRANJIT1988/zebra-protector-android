@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Zebra Protector</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="large_text">
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic."
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic."
+
+    </string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_download">Download</string>
+    <string name="title_activity_main">Push Notifications</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: Device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: Device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: You got message!</string>
+    <string name="gcm_error">From GCM: Error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: Server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on server.</string>
+    <string name="server_registered">From Server: Successfully added device!</string>
+    <string name="server_unregistered">From Server: Successfully removed device!</string>
+    <string name="server_register_error">Could not register device on server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+
+    <string name="button_done">Done</string>
+
+    <string name="hint_enter_mobile_no">Mobile No</string>
+    <string name="hint_enter_password">Password</string>
+    <string name="hint_enter_name">Name</string>
+    <string name="hint_enter_email">E-Mail</string>
+    <string name="hint_enter_city">City</string>
+    <string name="hint_enter_mobile_number">Enter Mobile No *</string>
+    <string name="hint_enter_house_no">Enter House Name and No *</string>
+    <string name="hint_enter_address">Enter Address *</string>
+    <string name="hint_enter_state">Enter State *</string>
+    <string name="hint_enter_landmark">Enter Landmark</string>
+    <string name="hint_enter_country">Enter Country *</string>
+    <string name="hint_enter_pincode">Enter Pincode *</string>
+
+
+    <string name="button_guest_user">Guest User</string>
+    <string name="button_register">Don not have an Account ? Sign Up</string>
+    <string name="button_premium_user">Premium User</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="button_sign_up">Sign Up</string>
+    <string name="button_send">Send</string>
+    <string name="button_new_address">Add New Address</string>
+    <string name="button_reset_password">Create / Reset Password</string>
+    <string name="button_book_service">Book Now</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_save_shipping_details">Save And Continue</string>
+    <string name="title_confirmation_code">OTP not Verifying ? Click Here</string>
+
+    <string name="action_forgot_password">Forgot Password</string>
+
+</resources>

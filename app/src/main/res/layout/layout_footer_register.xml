@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/btnGuestUser"
+        style="@style/TransparentButtonStyle"
+        android:layout_weight="1"
+        android:textAllCaps="false"
+        android:text="@string/button_guest_user" />
+
+    <View
+        android:layout_width="0.5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_height="fill_parent"
+        android:background="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnPremiumUser"
+        style="@style/TransparentButtonStyle"
+        android:textAllCaps="false"
+        android:layout_weight="1"
+        android:text="@string/button_premium_user" />
+
+</LinearLayout>
